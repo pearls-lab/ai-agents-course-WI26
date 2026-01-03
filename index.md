@@ -1,5 +1,5 @@
 ---
-title: CSE 291 - AI Agents - UCSD CSE
+title: CSE 291A - AI Agents - UCSD CSE
 layout: default
 img: # heroes_journey.png
 active_tab: main_page 
@@ -55,7 +55,7 @@ First day of class is Thursday, January 13, 2022 at 1:45pm-3:15pm Eastern. It wi
 </div>
 -->
 
-# Course number: CSE 291 - AI Agents
+# Course number: CSE 291A - AI Agents
 
 ### Course Description
 This course will cover the basics of (1) what LLM-based AI Agents actually are; (2) where they can be useful (and where they are not); and (3) how to safely train and deploy an agent for a given virtual domain.
@@ -80,16 +80,16 @@ Students should be familiar with basic CS concepts such as Search (A*, Monte Car
 #### Recommended Preparation for Those Without Required Knowledge
 Undergrad Intro to AI/RL, and grad level Intro to Deep Learning / NLP types of courses are highly recommended
 
-#### Website [pearls-lab.github.io/ai-agents-course](http://pearls-lab.github.io/ai-agents-course)
+#### Website [pearls-lab.github.io/ai-agents-course](http://pearls-lab.github.io/ai-agents-course-WI26)
 
 #### Instructors: [Prithviraj Ammanabrolu](https://prithvirajva.com)
 
-#### TAs: [Bosung Kim](https://bosung.github.io)
+#### TAs: [Bosung Kim](https://bosung.github.io), [Christopher Cui](https://christopherzc.github.io)
 
 #### Time and Place
-- Winter 2025, Tuesdays & Thursdays from 3:30 to 4:50 pm PT in CSE 2154
-- First day of class is January 06, 2025
-- Last day of class is March 13, 2025
+- Winter 2026, Tuesdays & Thursdays from 3:30 to 4:50 pm PT at CENTR 214
+- First day of class is January 06, 2026
+- Last day of class is March 12, 2026
 
 Office Hours (see the [Staff](/staff.html) page for office hour locations)
 
@@ -125,4 +125,4 @@ Writing on final projects can be edited but not entirely written with an LLM.
 Failure to comply with any of these policies will result in a 0 on that particular assignment.
 
 ### Late Day Policy
-Each student has five free "late days".  Homeworks can be submitted at most two days late.  If you are out of late days, then you will not be able to get credit for subsequent late assignments. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays.  You do not need to ask permission to use your late days.  No additional late days are granted. **Late days only apply to the homeworks. They cannot be used on the final project, which must be finished by the final day of class.  Late days may not be used for paper presentations.**
+Each student has five free "late days". Homeworks can be submitted at most two days late. If you are out of late days, then you will not be able to get credit for subsequent late assignments. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays.  You do not need to ask permission to use your late days.  No additional late days are granted. **Late days only apply to the homeworks. They cannot be used on the final project, which must be finished by the final day of class.  Late days may not be used for paper presentations.**

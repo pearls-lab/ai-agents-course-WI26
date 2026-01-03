@@ -1,6 +1,6 @@
 -
   module_number: 0
-  start_date: 2025-01-06
+  start_date: 2026-01-06
   end_date:
   title: Introduction to AI Agents
   description: Welcome to the class! In this introductory module, you will become acquainted with many forms of AI (especially language) agents.
@@ -28,5 +28,5 @@
       title: "Homework 0: Pre-req"
       url: homeworks/hw0/hw0.md
       percentage:
-      due_date: 2025-01-13
+      due_date: 2026-01-20
   
