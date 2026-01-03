@@ -1,6 +1,6 @@
 ---
 layout: default
-img: maze.png
+img: hw0/maze.png
 img_link:
 caption: 
 title: Pre-reqs
@@ -21,7 +21,7 @@ readings:
 
 HW0 consists of two parts:
 - [Part 1: Search and Value Iteration](#part-1-search-and-value-iteration-50pts) (50pts)
-- [Part 2: LM training with Huggingface](https://github.com/pearls-lab/ai-agents-course-WI26/tree/main/homeworks/hw0/part-2-huggingface-LM-training) (50pts)
+- [Part 2: LM training with Huggingface](https://github.com/pearls-lab/ai-agents-course-WI26/blob/main/homeworks/hw0/part-2-huggingface-LM-training/hw0-part-2.ipynb) (50pts)
 
 You can find the starter code and instruction in the course's GitHub repository: [https://github.com/pearls-lab/ai-agents-course-WI26](https://github.com/pearls-lab/ai-agents-course-WI26)
 
