@@ -727,7 +727,7 @@ def to_screen(point):
     return ( x, y )
 
 
-def square(pos, size, color, filled, width):
+def grid_square(pos, size, color, filled, width):
     x, y = pos
     dx, dy = size, size
     return polygon([(x - dx, y - dy), (x - dx, y + dy), (x + dx, y + dy), (x + dx, y - dy)], outlineColor=color, fillColor=color, filled=filled, width=width, smoothed=False)
@@ -739,18 +739,18 @@ def drawSquare(screen_x, screen_y, val, min, max, valStr, action, isObstacle, is
     if isObstacle:
         square_color = OBSTACLE_COLOR
 
-    square( (screen_x, screen_y),
+    grid_square( (screen_x, screen_y),
                    0.5* GRID_SIZE,
                    color = square_color,
                    filled = 1,
                    width = 1)
-    square( (screen_x, screen_y),
+    grid_square( (screen_x, screen_y),
                    0.5* GRID_SIZE,
                    color = EDGE_COLOR,
                    filled = 0,
                    width = 1)
     if isTerminal and not isObstacle:
-        square( (screen_x, screen_y),
+        grid_square( (screen_x, screen_y),
                      0.4* GRID_SIZE,
                      color = EDGE_COLOR,
                      filled = 0,
