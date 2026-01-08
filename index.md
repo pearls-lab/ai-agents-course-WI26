@@ -91,7 +91,7 @@ Undergrad Intro to AI/RL, and grad level Intro to Deep Learning / NLP types of c
 - First day of class is January 06, 2026
 - Last day of class is March 12, 2026
 
-Office Hours (see the [Staff](/staff.html) page for office hour locations)
+Office Hours (see the [Staff]({{ site.baseurl }}/staff) page for office hour locations)
 
 ### Course Materials
 There is no textbook for this course, but you will be required to puchase a varitey of materials including software and API credits. If any of these are prohibitively expensive for your budget, please let the instructor know.
