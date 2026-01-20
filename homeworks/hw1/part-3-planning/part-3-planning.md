@@ -11,7 +11,7 @@ due_date:
 materials:
     - 
         name: hw1
-        url: https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw1
+        url: https://github.com/pearls-lab/ai-agents-course-WI26/tree/main/homeworks/hw1
 submission_link: https://www.gradescope.com
 ---
 

@@ -12,10 +12,10 @@ due_date:
 materials:
     - 
         name: Example of How To Convert WikiHow to PDDL.ipynb
-        url: https://github.com/pearls-lab/ai-agents-course/blob/main/homeworks/hw1/part-4-pddl-extra-credit/Example_of_How_To_Convert_WikiHow_to_PDDL.ipynb
+        url: https://github.com/pearls-lab/ai-agents-course-WI26/blob/main/homeworks/hw1/part-4-pddl-extra-credit/Example_of_How_To_Convert_WikiHow_to_PDDL.ipynb
     - 
         name: Annotate Your PDDL with WikiHow Mentions.ipynb
-        url: https://github.com/pearls-lab/ai-agents-course/blob/main/homeworks/hw1/part-4-pddl-extra-credit/Annotate_Your_PDDL_with_WikiHow_Mentions.ipynb
+        url: https://github.com/pearls-lab/ai-agents-course-WI26/blob/main/homeworks/hw1/part-4-pddl-extra-credit/Annotate_Your_PDDL_with_WikiHow_Mentions.ipynb
 readings:
     -
         title: AIMA Chapter 11 "Automated Planning"

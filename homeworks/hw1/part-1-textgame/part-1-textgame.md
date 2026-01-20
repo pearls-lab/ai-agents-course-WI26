@@ -12,7 +12,7 @@ due_date:
 materials:
     - 
         name: Text Adventure Game starter code (Zip file)
-        url: https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw1
+        url: https://github.com/pearls-lab/ai-agents-course-WI26/tree/main/homeworks/hw1
     - 
         name: Parsely&colon; Preview n' Play Edition (this contains the Action Castle game).  
         url: http://www.memento-mori.com/pdf/parsely-preview-n-play-edition
@@ -53,7 +53,7 @@ We have provided [starter code for a basic text adventure game]({{page.materials
 
 #### Environment Setup
 
-First download the zip file (or `git clone https://github.com/pearls-lab/ai-agents-course.git`), then create a virtual environment and install
+First download the zip file (or `git clone https://github.com/pearls-lab/ai-agents-course-WI26.git`), then create a virtual environment and install
 the dependencies.
 
 ```
