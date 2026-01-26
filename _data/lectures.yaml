@@ -90,7 +90,7 @@
           url: http://incompleteideas.net/book/RLbook2020.pdf
           authors: Rich Sutton and Andrew Barto
 -
-  date: 20265-01-27
+  date: 2026-01-27
   title: Deep Reinforcement Learning, Pre-LLMs
   slides: deep_rl_pre_llms.pdf
   readings:
